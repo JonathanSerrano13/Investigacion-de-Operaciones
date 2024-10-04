@@ -23,6 +23,6 @@ Este programa es el Metodo Simplex para resilver problemas de programacion linea
 6. Boton borrar para limpiar los campos.
 
 Integrantes: 
-- Solis Cahuich Paloma.
+- Solis Cauich Paloma.
 - Negron Salazar Danna.
 - Serrano Lopez Jonathan.
