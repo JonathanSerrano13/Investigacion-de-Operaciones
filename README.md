@@ -9,7 +9,7 @@ Este programa es el Metodo Simplex para resilver problemas de programacion linea
 - IDE compatible con Java o cualquier compilador Java
 
 ##Instalacion
-1. Clona el repositorio en la maquina local:
+1. Descargue o clone el repositorio en la maquina local:
    git clone https://github.com/JonathanSerrano13/Investigacion-de-Operaciones.git
 2. Abre el IDE de Java y copie el codigo en nuevo archivo
 
